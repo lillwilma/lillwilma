@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hej! Jag heter Wilma Karlsson
 
-<!--
-**lillwilma/lillwilma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jag studerar till frontendutvecklare vid Medieinstitutet (2024–2026) och brinner för att skapa tillgängliga, snygga och användarvänliga webbappar. Just nu letar jag efter praktikplats hösten 2025 (Start V.38).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projekt
+
+- [Mood Tracker App](https://github.com/lillwilma/mood-tracker) – Logga humör, sömn och vattenintag
+
+---
+
+## 🛠 Färdigheter
+
+**Språk & ramverk:**  
+HTML5, CSS3, JavaScript, React, TypeScript
+
+**Verktyg & teknik:**  
+Vite, GitHub, REST API, LocalStorage
+
+**Design & UX:**  
+Figma, UI/UX-design, mobilanpassning, tillgänglighet 
+
+**Arbetssätt:**  
+Scrum, agilt arbete, parprogrammering, GitHub Projects
+
+---
+
+📫 **Kontakta mig:** wilmakarlsson.dev@gmail.com
+
