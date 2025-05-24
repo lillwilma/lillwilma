@@ -6,7 +6,7 @@ Jag studerar till frontendutvecklare vid Medieinstitutet (2024–2026) och brinn
 
 ## 🚀 Projekt
 
-- [Mood Tracker App](https://github.com/lillwilma/mood-tracker) – Logga humör, sömn och vattenintag
+- [Mood Tracker App](https://github.com/lillwilma/MoodTracker.git) – Logga humör, sömn och vattenintag
 
 ---
 
