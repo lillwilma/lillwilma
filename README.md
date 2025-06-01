@@ -1,6 +1,6 @@
 # 👋 Hej! Jag heter Wilma Karlsson
 
-Jag studerar till frontendutvecklare vid Medieinstitutet (2024–2026) och brinner för att skapa tillgängliga, snygga och användarvänliga webbappar. Just nu letar jag efter praktikplats hösten 2025 (Start V.39).
+Jag studerar till frontendutvecklare vid Medieinstitutet (2024-2026) och brinner för att skapa tillgängliga, snygga och användarvänliga webbappar. Just nu letar jag efter praktikplats hösten 2025 (Start V.39).
 
 ---
 
